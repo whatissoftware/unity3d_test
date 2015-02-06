@@ -1,0 +1,11 @@
+C:\d\air_plane\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\d\air_plane\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\d\air_plane\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\d\air_plane\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\d\air_plane\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\d\air_plane\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\d\air_plane\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\d\air_plane\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\d\air_plane\obj\Debug\UnityVS.air_plane.CSharp.csprojResolveAssemblyReference.cache
+C:\d\air_plane\obj\Debug\Assembly-CSharp.dll
+C:\d\air_plane\obj\Debug\Assembly-CSharp.pdb
